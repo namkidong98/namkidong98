@@ -1,7 +1,6 @@
 # Profile
 <pre>
-17.01 - now       Posting Book & Movie Reviews on Blog  
-                  https://blog.naver.com/rlehd201 <br>
+17.01 - now       Posting Book & Movie Reviews on [Naver Blog](https://blog.naver.com/rlehd201) <br>
 18.03 - now       Sogang Univ. Dept of Philosophy <br>
 20.09 - 22.03     Served as KATUSA at Camp Humphreys <br>
 22.03 - now       Began majoring in Computer Science <br>
