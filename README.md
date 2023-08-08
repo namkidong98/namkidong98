@@ -1,6 +1,6 @@
 # Profile
 <pre>
-17.01 - now       Posting Book & Movie Reviews on Blog <br>
+17.01 - now       Posting Book & Movie Reviews on <a href="https://blog.naver.com/rlehd201">Blog</a> <br>
 18.03 - now       Sogang Univ. Dept of Philosophy <br>
 20.09 - 22.03     Served as KATUSA at Camp Humphreys <br>
 22.03 - now       Began majoring in Computer Science <br>
@@ -26,9 +26,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-
-### Blog 
-![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Blog&logoColor=white&link=https://blog.naver.com/rlehd201)
 
 ### BaekJoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlehd201)](https://solved.ac/rlehd201/)
