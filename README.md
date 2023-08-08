@@ -1,9 +1,10 @@
 # Simple Profile
+<span style="font-family: Arial; font-size: 16px;">
 <pre>
-2018    - now       Sogang Univ. Dept of Philosophy <br>
-2020.09 - 2022.03   Served as KATUSA at Camp Humphreys <br>
-2022    - now       Began majoring in computer science <br>
-2023.08 - 2023.09   2023 OUTTA AI CAMP <br>
+18.03 - now       Sogang Univ. Dept of Philosophy <br>
+20.09 - 22.03     Served as KATUSA at Camp Humphreys <br>
+22.03 - now       Began majoring in computer science <br>
+23.07 - 23.08     2023 OUTTA AI CAMP <br>
 </pre>
 
 # Skills
