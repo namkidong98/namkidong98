@@ -1,11 +1,14 @@
-# Simple Profile
-<span style="font-family: Arial; font-size: 16px;">
+# Profile
 <pre>
+17.01 - now       Posting Book & Movie Reviews on Blog  
+                  https://blog.naver.com/rlehd201 <br>
 18.03 - now       Sogang Univ. Dept of Philosophy <br>
 20.09 - 22.03     Served as KATUSA at Camp Humphreys <br>
-22.03 - now       Began majoring in computer science <br>
+22.03 - now       Began majoring in Computer Science <br>
 23.07 - 23.08     2023 OUTTA AI CAMP <br>
 </pre>
+
+Blog 
 
 # Skills
 
@@ -33,5 +36,3 @@
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlehd201@gmail.com)](mailto:rlehd201@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlehd201@naver.com)](mailto:rlehd201@naver.com)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamkidong98&count_bg=%23000001&title_bg=%23000000&icon=waze.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
