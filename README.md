@@ -4,7 +4,7 @@
 18.03 - now       Sogang Univ. Dept of Philosophy <br>
 20.09 - 22.03     Served as KATUSA at Camp Humphreys <br>
 22.03 - now       Majoring in Computer Science <br>
-23.07 - 23.08     2023 OUTTA AI CAMP <br>
+23.07 - 23.08     2023 <a href='https://linktr.ee/outta_official'>OUTTA</a> AI CAMP <br>
 23.09 - now       Member of the 7th <a href="https://cerulean-cord-e77.notion.site/BDA-e6c492e16606491c9ba478d92d135350">BDA</a>(Big Data Analytic Association) <br>
 </pre>
 
