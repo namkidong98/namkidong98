@@ -3,8 +3,9 @@
 17.01 - now       Posting Book & Movie Reviews on <a href="https://blog.naver.com/rlehd201">Blog</a> <br>
 18.03 - now       Sogang Univ. Dept of Philosophy <br>
 20.09 - 22.03     Served as KATUSA at Camp Humphreys <br>
-22.03 - now       Began majoring in Computer Science <br>
+22.03 - now       Majoring in Computer Science <br>
 23.07 - 23.08     2023 OUTTA AI CAMP <br>
+23.09 - now       Member of the 7th BDA(Big Data Analytic Association) <br>
 </pre>
 
 # Skills
