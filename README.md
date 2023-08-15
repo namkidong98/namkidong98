@@ -1,7 +1,7 @@
 # Profile
 <pre>
 17.01 - now       Posting Book & Movie Reviews on <a href="https://blog.naver.com/rlehd201">Blog</a> <br>
-18.03 - now       Sogang Univ. Dept of Philosophy <br>
+18.03 - now       <a herf='https://www.sogang.ac.kr'>Sogang Univ.</a> Dept of Philosophy <br>
 20.09 - 22.03     Served as KATUSA at Camp Humphreys <br>
 22.03 - now       Majoring in Computer Science <br>
 23.07 - 23.08     2023 <a href='https://linktr.ee/outta_official'>OUTTA</a> AI CAMP <br>
