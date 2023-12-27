@@ -7,6 +7,7 @@
 23.07 - 23.08     2023 <a href='https://linktr.ee/outta_official'>OUTTA</a> AI CAMP <a href="https://github.com/namkidong98/OUTTA_AI_BootCamp">(related repository)</a> <br>
 23.09 - now       Member of the 7th <a href="https://cerulean-cord-e77.notion.site/BDA-e6c492e16606491c9ba478d92d135350">BDA</a>(Big Data Analytic Association) <a href="https://github.com/namkidong98/BDA_Data-Analysis-Intermediate-Class">(related repository)</a><br>
 23.09 - now       Member of the 9th <a href="https://sogang-parrot.notion.site/sogang-parrot/Sogang-Parrot-ab6f98ec38b24a3d8d1da775813a7893">Sogang Parrot</a> <a href="https://github.com/namkidong98/Sogang-Parrot_2023-02">(related repository)</a> <br>
+23.12 - 24.02     4th <a href='https://www.skttechacademy.com'>SKY FLY AI Challenger</a> <a href="https://github.com/namkidong98/SKT_FLY_AI_Challenger4">(related repository)</a><br>
 </pre>
 
 # Skills
@@ -16,13 +17,18 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-
-### Studying Now
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+<br>
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### Studying Now
+![Pytorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
+![keras](https://img.shields.io/badge/keras-D00000.svg?&style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
