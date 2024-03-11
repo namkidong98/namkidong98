@@ -10,6 +10,8 @@
 23.12 - 24.02     4th <a href='https://www.skttechacademy.com'>SKY FLY AI Challenger</a> <a href="https://github.com/namkidong98/SKT_FLY_AI_Challenger4">(related repository)</a><br>
 </pre>
 
+<br>
+
 # :star2: Teck Stack
 
 ![c](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
@@ -40,8 +42,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
+<br>
+
 # :computer: BaekJoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlehd201)](https://solved.ac/rlehd201/)
+
+<br>
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlehd201@gmail.com)](mailto:rlehd201@gmail.com)
