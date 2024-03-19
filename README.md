@@ -8,6 +8,7 @@
 23.09 - now       Member of the 7th <a href="https://cerulean-cord-e77.notion.site/BDA-e6c492e16606491c9ba478d92d135350">BDA</a>(Big Data Analytic Association) <a href="https://github.com/namkidong98/BDA_Data-Analysis-Intermediate-Class">(related repository)</a><br>
 23.09 - now       Member of the 9th <a href="https://sogang-parrot.notion.site/sogang-parrot/Sogang-Parrot-ab6f98ec38b24a3d8d1da775813a7893">Sogang Parrot</a> <a href="https://github.com/namkidong98/Sogang-Parrot_2023-02">(related repository)</a> <br>
 23.12 - 24.02     4th <a href='https://www.skttechacademy.com'>SKY FLY AI Challenger</a> <a href="https://github.com/namkidong98/SKT_FLY_AI_Challenger4">(related repository)</a><br>
+24.03 - now       Member of the 12th <a href="https://www.likelionsg.site/">Sogang LikeLion</a>
 </pre>
 
 <br>
@@ -35,7 +36,7 @@
 <br>
 ### DevOps & Cloud
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-0078D7.svg?&style=for-the-badge&logo=azure&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoftazure-0078D7.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white)
 <br>
 ### Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
