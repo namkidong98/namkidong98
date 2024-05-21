@@ -1,4 +1,4 @@
-# :page_facing_up: Profile
+# :page_facing_up: Profile 
 <pre>
 17.01 - now       Posting Book & Movie Reviews on <a href="https://blog.naver.com/rlehd201">Blog</a> <br>
 18.03 - 24.06     <a href='https://www.sogang.ac.kr'>Sogang Univ.</a> Dept of Philosophy <br>
@@ -9,6 +9,7 @@
 23.12 - 24.02     4th <a href='https://www.skttechacademy.com'>SKY FLY AI Challenger</a> <a href="https://github.com/namkidong98/SKT_FLY_AI_Challenger4">(related repository)</a><br>
 24.03 - now       Member of the 12th <a href="https://www.likelionsg.site/">Sogang LikeLion</a>
 </pre>
+[![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://namkidong98.notion.site/)
 
 <br>
 
