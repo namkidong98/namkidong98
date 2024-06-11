@@ -7,9 +7,10 @@
 23.07 - 23.08     2023 <a href='https://linktr.ee/outta_official'>OUTTA</a> AI CAMP <a href="https://github.com/namkidong98/OUTTA_AI_BootCamp">(related repository)</a> <br>
 23.09 - 24.06     Member of the 9th <a href="https://sogang-parrot.notion.site/sogang-parrot/Sogang-Parrot-ab6f98ec38b24a3d8d1da775813a7893">Sogang Parrot</a> <a href="https://github.com/namkidong98/Sogang-Parrot_2023-02">(related repository)</a> <br>
 23.12 - 24.02     4th <a href='https://www.skttechacademy.com'>SKY FLY AI Challenger</a> <a href="https://github.com/namkidong98/SKT_FLY_AI_Challenger4">(related repository)</a><br>
-24.03 - now       Member of the 12th <a href="https://www.likelionsg.site/">Sogang LikeLion</a>
+24.03 - now       Member of the 12th <a href="https://www.likelionsg.site/">Sogang LikeLion</a> <br>
+24.06 - now       Intern of DX Headquarters in Donga-Ilbo
 </pre>
-[![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://namkidong98.notion.site/)
+For More Details : [![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://namkidong98.notion.site/)
 
 <br>
 
