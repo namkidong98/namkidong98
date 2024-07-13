@@ -23,6 +23,8 @@ For More Details : [![Notion](https://img.shields.io/badge/notion-000000.svg?&st
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 <br>
 ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)
 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
@@ -45,10 +47,7 @@ For More Details : [![Notion](https://img.shields.io/badge/notion-000000.svg?&st
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 <br>
-### Now I'm Studying
-![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 
-<br>
 
 # :computer: BaekJoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlehd201)](https://solved.ac/rlehd201/)
