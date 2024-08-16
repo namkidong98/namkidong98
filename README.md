@@ -1,11 +1,11 @@
 # :page_facing_up: Profile 
 <pre>
 17.01 - now       Posting Book & Movie Reviews on <a href="https://blog.naver.com/rlehd201">Blog</a> <br>
-18.03 - 24.06     <a href='https://www.sogang.ac.kr'>Sogang Univ.</a> Dept of Philosophy <br>
+18.03 - 24.08     <a href='https://www.sogang.ac.kr'>Sogang Univ.</a> Dept of Philosophy <br>
 20.09 - 22.03     Served as KATUSA at Camp Humphreys <br>
-22.03 - 24.06     Majoring in Computer Science <br>
+22.03 - 24.08     Majoring in Computer Science <br>
 23.07 - 23.08     2023 <a href='https://linktr.ee/outta_official'>OUTTA</a> AI CAMP <a href="https://github.com/namkidong98/OUTTA_AI_BootCamp">(related repository)</a> <br>
-23.09 - 24.06     Member of the 9th <a href="https://sogang-parrot.notion.site/sogang-parrot/Sogang-Parrot-ab6f98ec38b24a3d8d1da775813a7893">Sogang Parrot</a> <a href="https://github.com/namkidong98/Sogang-Parrot_2023-02">(related repository)</a> <br>
+23.09 - 24.08     Member of the 9th <a href="https://sogang-parrot.notion.site/sogang-parrot/Sogang-Parrot-ab6f98ec38b24a3d8d1da775813a7893">Sogang Parrot</a> <a href="https://github.com/namkidong98/Sogang-Parrot_2023-02">(related repository)</a> <br>
 23.12 - 24.02     4th <a href='https://www.skttechacademy.com'>SKY FLY AI Challenger</a> <a href="https://github.com/namkidong98/SKT_FLY_AI_Challenger4">(related repository)</a><br>
 24.03 - now       Member of the 12th <a href="https://www.likelionsg.site/">Sogang LikeLion</a> <br>
 24.04 - 24.06     Samsung Securities 2024 Digital/IT Program - Grand Prize <a href="https://github.com/namkidong98/Samsung_OCR-Chatbot">(related repository)</a><br>
