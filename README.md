@@ -11,7 +11,7 @@
 24.04 - 24.06     Samsung Securities 2024 Digital/IT Program - Grand Prize <a href="https://github.com/namkidong98/Samsung_OCR-Chatbot">(related repository)</a><br>
 24.06 - now       Intern of DX Headquarters in Donga-Ilbo
 </pre>
-For More Details : [![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://namkidong98.notion.site/)
+For More Details : [![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/namkidong98/Nam-Kidong-s-Portfolio-4fa9ac06d1e74ac6bf2fb55a4c040189)
 
 <br>
 
