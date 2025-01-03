@@ -2,15 +2,17 @@
 <pre>
 17.01 - now       Posting Book & Movie Reviews With Tech Posting on <a href="https://blog.naver.com/rlehd201">Blog</a> <br>
 18.03 - 24.08     <a href='https://www.sogang.ac.kr'>Sogang Univ.</a> Dept of Philosophy <br>
-20.09 - 22.03     Served as KATUSA at Camp Humphreys <br>
+20.09 - 22.03     Served as 🎖️KATUSA at Camp Humphreys <br>
 22.03 - 24.08     Majoring in Computer Science <br>
-23.07 - 23.08     2023 <a href='https://linktr.ee/outta_official'>OUTTA</a> AI CAMP <a href="https://github.com/namkidong98/OUTTA_AI_BootCamp">(related repository)</a> <br>
-23.09 - 24.08     Member of the 9th <a href="https://sogang-parrot.notion.site/sogang-parrot/Sogang-Parrot-ab6f98ec38b24a3d8d1da775813a7893">Sogang Parrot</a> <a href="https://github.com/namkidong98/Sogang-Parrot_2023-02">(related repository)</a> <br>
-23.12 - 24.02     4th <a href='https://www.skttechacademy.com'>SKY FLY AI Challenger</a> <a href="https://github.com/namkidong98/SKT_FLY_AI_Challenger4">(related repository)</a><br>
-24.03 - now       Member of the 12th <a href="https://www.likelionsg.site/">Sogang LikeLion</a> <br>
-24.04 - 24.06     Samsung Securities 2024 Digital/IT Program - Grand Prize <a href="https://github.com/namkidong98/Samsung_OCR-Chatbot">(related repository)</a><br>
-24.06 - now       Intern of DX Headquarters in Donga-Ilbo <a href="https://github.com/namkidong98/Donga_Recommend_Article">(related repository)</a><br>
-24.09 - now       <a href="https://devocean.sk.com/blog/index.do?techType=OPENLAB">DEVOCEAN OpenLAB</a> "Cloud Native-based AI Agent Development for Traveling" & "Toy project using Open API"<br>
+23.07 - 23.08     2023 <a href='https://linktr.ee/outta_official'>OUTTA</a> AI CAMP <a href="https://github.com/namkidong98/OUTTA_AI_BootCamp">🔗</a> <br>
+23.09 - 24.08     Member of the 9th <a href="https://sogang-parrot.notion.site/sogang-parrot/Sogang-Parrot-ab6f98ec38b24a3d8d1da775813a7893">Sogang Parrot</a>🦜 <a href="https://github.com/namkidong98/Sogang-Parrot_2023-02">🔗</a> <br>
+23.12 - 24.02     4th <a href='https://www.skttechacademy.com'>SKY FLY AI Challenger</a> <a href="https://github.com/namkidong98/SKT_FLY_AI_Challenger4">🔗</a><br>
+24.03 - 24.12     Member of the 12th <a href="https://www.likelionsg.site/">Sogang LikeLion</a> <br>
+24.04 - 24.06     Samsung Securities 2024 Digital/IT Program - 🏆Grand Prize <a href="https://github.com/namkidong98/Samsung_OCR-Chatbot">🔗</a><br>
+24.06 - 25.01     Intern of DX Headquarters in Donga-Ilbo📰 <a href="https://github.com/namkidong98/Donga_Recommend_Article">🔗</a><br>
+24.09 - 24.12     <a href="https://devocean.sk.com/blog/index.do?techType=OPENLAB">DEVOCEAN OpenLAB</a> "Cloud Native-based AI Agent Development for Traveling" & "Toy project using Open API" <a href="https://github.com/namkidong98/balbalm-user">🔗</a><br>
+24.09 - 24.12     Sogang Convergence Technology Competition 2024 - 🏆Grand Prize<br>
+25.03 - 27.02     Master's Course in <a href="https://software.kaist.ac.kr/">KAIST</a> (KT-AI Convergence Talent Training Program)
 </pre>
 For More Details : [![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/namkidong98/Nam-Kidong-s-Portfolio-4fa9ac06d1e74ac6bf2fb55a4c040189)
 
