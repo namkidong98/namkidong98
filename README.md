@@ -9,10 +9,11 @@
 23.12 - 24.02     4th <a href='https://www.skttechacademy.com'>SKY FLY AI Challenger</a> <a href="https://github.com/namkidong98/SKT_FLY_AI_Challenger4">🔗</a><br>
 24.03 - 24.12     Member of the 12th <a href="https://www.likelionsg.site/">Sogang LikeLion</a> <br>
 24.04 - 24.06     Samsung Securities 2024 Digital/IT Program - 🏆Grand Prize <a href="https://github.com/namkidong98/Samsung_OCR-Chatbot">🔗</a><br>
-24.06 - 25.01     Intern of DX Headquarters in Donga-Ilbo📰 <a href="https://github.com/namkidong98/Donga_Recommend_Article">🔗</a><br>
+24.06 - 25.01     Intern at DX Headquarters in Donga-Ilbo📰 <a href="https://github.com/namkidong98/Donga_Recommend_Article">🔗</a><br>
 24.09 - 24.12     <a href="https://devocean.sk.com/blog/index.do?techType=OPENLAB">DEVOCEAN OpenLAB</a> "Cloud Native-based AI Agent Development for Traveling" & "Toy project using Open API" <a href="https://github.com/namkidong98/balbalm-user">🔗</a><br>
 24.09 - 24.12     Sogang Convergence Technology Competition 2024 - 🏆Grand Prize<br>
-25.03 - 27.02     <a href="https://software.kaist.ac.kr/">KAIST</a> School of Computing M.S. | <a href="https://bdi-lab.kaist.ac.kr/">Big Intelligence Lab</a> | KT-AI Convergence Talent Training Program
+25.03 - 27.02     <a href="https://software.kaist.ac.kr/">KAIST</a> School of Computing M.S. | <a href="https://bdi-lab.kaist.ac.kr/">Big Intelligence Lab</a> | KT-AI Convergence Talent Training Program<br>
+26.01 - 26.02     Intern at KT Agentic AI Lab (AI Search Tech Team)<br>
 </pre>
 For More Details : [![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/namkidong98/Nam-Kidong-s-Portfolio-4fa9ac06d1e74ac6bf2fb55a4c040189)
 
